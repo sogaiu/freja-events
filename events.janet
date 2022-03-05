@@ -128,12 +128,12 @@
                    :fiber fib
                    :msg (string/format
                           ``
-                             %s
-                             event:
-                             %p
-                             subscriber:
-                             %p
-                             ``
+                          %s
+                          event:
+                          %p
+                          subscriber:
+                          %p
+                          ``
                           err event subscriber)
                    :cause [v puller]}))))))
     # if there was a value, we return it
