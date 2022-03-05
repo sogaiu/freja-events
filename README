@@ -1,0 +1,6 @@
+events.janet from freja by saikyun
+
+`jpm test` to run tests
+
+See the `comment` forms in `events.janet` to get a feel for usage
+
